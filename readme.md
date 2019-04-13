@@ -1,6 +1,6 @@
 # [only for me]
 
-仅仅个人在学习网络安全过程中收集的一些有价值的工具。在此整理备份。
+仅仅个人在学习过程中收集的一些有价值的工具。在此整理备份。
 
 
 
@@ -13,4 +13,4 @@
 + [wafw00f](https://github.com/EnableSecurity/wafw00f)  identify and fingerprint Web Application Firewall (WAF)
 + [SSRFmap](https://github.com/swisskyrepo/SSRFmap) Automatic SSRF fuzzer and exploitation tool 
 + [shadowbroker](https://github.com/misterch0c/shadowbroker) 影子经纪人泄漏的工具
-+ [htpwdScan](https://github.com/lijiejie/htpwdScan) 一个简单的HTTP暴力破解、撞库攻击脚本
++ [Scanners-Box](https://github.com/We5ter/Scanners-Box) 安全行业从业者自研开源扫描器合辑 
