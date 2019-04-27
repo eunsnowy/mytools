@@ -14,3 +14,4 @@
 + [SSRFmap](https://github.com/swisskyrepo/SSRFmap) Automatic SSRF fuzzer and exploitation tool 
 + [shadowbroker](https://github.com/misterch0c/shadowbroker) 影子经纪人泄漏的工具
 + [Scanners-Box](https://github.com/We5ter/Scanners-Box) 安全行业从业者自研开源扫描器合辑 
++ [XXEinjector](https://github.com/enjoiz/XXEinjector) 
